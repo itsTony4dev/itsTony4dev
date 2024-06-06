@@ -10,6 +10,8 @@
     <p></p>
     <li> Developer career never end so I thrive on tackling new challenges that stretch my abilities and elevate my expertise.</li>
     <p></p>
+     <li> During breaks, I challenge myself by learning Rust, a powerful and memory-safe systems programming language..</li>
+    <p></p>
     <li>Thank you for taking the time to visit my profile, hope we will meet someday in buisness stuff!</li>
     <p></p>
   </ul>
@@ -18,8 +20,8 @@
 <p align="left">
 </p>
 
-<h3 align="left">Skills:</h3>
-
+<h3 align="center">Skills:</h3>
+<hr>
 <p>
  <b>Languages:</b>  <br> <p></p>
  <p>
@@ -47,7 +49,7 @@
  </p>
  <p>
    <i>Backend:</i>
-  <p dir="auto">
+<p dir="auto">
 &nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6dcb4aed908dcbb88fce347bb60000a2a9eb26a86557af3731311c5a40096657/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732532302d2532333433383533442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6dcb4aed908dcbb88fce347bb60000a2a9eb26a86557af3731311c5a40096657/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732532302d2532333433383533442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="Node.js" data-canonical-src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;"></a>
 &nbsp;
@@ -63,4 +65,13 @@
 <p>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1jA4UtjdaTaa_wwtgHxcbC8W-vhbQr5KO5Q&s" wdith="100%" height="30" />
 </p>
+<p> <i>Loading for:</i> </p>
+<p>
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*xWJSj_nmCSaot7nGfU8ang.gif" wdith="100%" height="30" />
+  <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" wdith="100%" height="30" />
+</p>
+<h3 align="center">Get in Touch:</h3>
+<hr>
+<p align="center"> <a href="https://www.linkedin.com/in/tony-ayda-692263258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOpWAud3eTUWHAXSCFRCNmQ%3D%3D"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX9wEYs4xLVdbBTp4E70ZqZsVjfl-hKrSoqg&s" height="50" /></a></p>
+
 
