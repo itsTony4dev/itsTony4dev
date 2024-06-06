@@ -60,16 +60,19 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fe38a548fc834d0870500a0e5f14ad9aa40c5639fb294bb1ddff84df6207780c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422532302d2532333445413934422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/fe38a548fc834d0870500a0e5f14ad9aa40c5639fb294bb1ddff84df6207780c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422532302d2532333445413934422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="MongoDB" data-canonical-src="https://img.shields.io/badge/MongoDB%20-%234EA94B.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>
 &nbsp;
   </p>
- </p>
-<p> <i>Desktop:</i> </p>
-<p>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1jA4UtjdaTaa_wwtgHxcbC8W-vhbQr5KO5Q&s" wdith="100%" height="30" />
-</p>
-<p> <i>Loading for:</i> </p>
+  <p> <i>Loading for:</i> </p>
 <p>
   <img src="https://miro.medium.com/v2/resize:fit:1400/1*xWJSj_nmCSaot7nGfU8ang.gif" wdith="100%" height="30" />
   <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" wdith="100%" height="30" />
 </p>
+ </p>
+ <hr>
+ <br>
+<p> <b>DESKTOP:</b> </p>
+<p>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1jA4UtjdaTaa_wwtgHxcbC8W-vhbQr5KO5Q&s" wdith="100%" height="30" />
+</p>
+
 <h3 align="center">Get in Touch:</h3>
 <hr>
 <p align="center"> <a href="https://www.linkedin.com/in/tony-ayda-692263258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOpWAud3eTUWHAXSCFRCNmQ%3D%3D"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX9wEYs4xLVdbBTp4E70ZqZsVjfl-hKrSoqg&s" height="50" /></a></p>
