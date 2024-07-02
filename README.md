@@ -1,6 +1,6 @@
 
 <h1 align="center" >Hi 👋, I'm Tony Ayda</h1>
-<h2 align="center">A Software Developer</h3>
+<h2 align="center">A Backend Developer</h3>
 
 <h5>
   <ul>
