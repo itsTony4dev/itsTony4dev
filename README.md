@@ -70,11 +70,13 @@
  <br>
 <p> <b>DESKTOP:</b> </p>
 <p>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1jA4UtjdaTaa_wwtgHxcbC8W-vhbQr5KO5Q&s" wdith="100%" height="30" />
+ <img alt="Static Badge" src="https://img.shields.io/badge/.net_Framework-black?style=for-the-badge&logoColor=black&logoSize=for-the-badge&color=purple">
+
 </p>
 
 <h3 align="center">Get in Touch:</h3>
 <hr>
-<p align="center"> <a href="https://www.linkedin.com/in/tony-ayda-692263258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOpWAud3eTUWHAXSCFRCNmQ%3D%3D"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX9wEYs4xLVdbBTp4E70ZqZsVjfl-hKrSoqg&s" height="50" /></a></p>
+<p align="center"> <a href="https://www.linkedin.com/in/tony-ayda-692263258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOpWAud3eTUWHAXSCFRCNmQ%3D%3D"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=black&logoSize=for-the-badge&color=blue">
+</a></p>
 
 
