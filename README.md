@@ -83,7 +83,7 @@
  </p>
 
 <hr>
-<h3 align="center">Get in Touch:</h3>
+
 <p align="center"> <a href="https://www.linkedin.com/in/tony-ayda-692263258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOpWAud3eTUWHAXSCFRCNmQ%3D%3D"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=black&logoSize=for-the-badge&color=blue">
 </a></p>
 
