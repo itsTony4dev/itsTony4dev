@@ -23,11 +23,15 @@
 <h3 align="center">Skills:</h3>
 <hr>
 <p>
- <b>Languages:</b>  <br> <p></p>
+<div align="center">
+   <b>Languages:</b>  <br> <p></p>
  <p>
-     <img src="https://camo.githubusercontent.com/9e6e9b1133577d07936c91b5e1b744e5f1445b1aade1042a43af873dbcded122/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612532302d2532334537364630302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" width="80" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+     <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-black?style=for-the-badge&color=red">
+
+ <img alt="Static Badge" src="https://img.shields.io/badge/c%23-black?style=for-the-badge&color=purple">
+
+   <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&color=yellow">
+
  </p>
 
 </p>
@@ -35,7 +39,8 @@
  <p>
    <b>WEB TECHNOLOGIES:</b>
    <p>
-     <i>Frontend: </i>
+     <i><img alt="Static Badge" src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logoColor=black&color=black">
+ </i>
      
    </p>
    <p>
@@ -48,7 +53,8 @@
    </p>
  </p>
  <p>
-   <i>Backend:</i>
+   <i><img alt="Static Badge" src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logoColor=black&color=black">
+</i>
 <p dir="auto">
 &nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/6dcb4aed908dcbb88fce347bb60000a2a9eb26a86557af3731311c5a40096657/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732532302d2532333433383533442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6dcb4aed908dcbb88fce347bb60000a2a9eb26a86557af3731311c5a40096657/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732532302d2532333433383533442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="Node.js" data-canonical-src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -60,23 +66,27 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fe38a548fc834d0870500a0e5f14ad9aa40c5639fb294bb1ddff84df6207780c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422532302d2532333445413934422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/fe38a548fc834d0870500a0e5f14ad9aa40c5639fb294bb1ddff84df6207780c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422532302d2532333445413934422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="MongoDB" data-canonical-src="https://img.shields.io/badge/MongoDB%20-%234EA94B.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" style="max-width: 100%;"></a>
 &nbsp;
   </p>
-  <p> <i>Loading for:</i> </p>
-<p>
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*xWJSj_nmCSaot7nGfU8ang.gif" wdith="100%" height="30" />
-  <img src="https://i.pinimg.com/originals/f5/5e/80/f55e8059ea945abfd6804b887dd4a0af.gif" wdith="100%" height="30" />
-</p>
- </p>
- <hr>
+ 
+
  <br>
-<p> <b>DESKTOP:</b> </p>
+<p> <b><img alt="Static Badge" src="https://img.shields.io/badge/Desktop-000000?style=for-the-badge&logoColor=black&color=black">
+</b> </p>
 <p>
  <img alt="Static Badge" src="https://img.shields.io/badge/.net_Framework-black?style=for-the-badge&logoColor=black&logoSize=for-the-badge&color=purple">
 
 </p>
+ <p> <i>Language I'd like to learn:</i> </p>
+<p>
+  <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=red&labelColor=000000&color=red" alt="Rust" title="Rust Programming Language">
+ 
+</p>
+ </p>
 
-<h3 align="center">Get in Touch:</h3>
 <hr>
+<h3 align="center">Get in Touch:</h3>
 <p align="center"> <a href="https://www.linkedin.com/in/tony-ayda-692263258?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BOpWAud3eTUWHAXSCFRCNmQ%3D%3D"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logoColor=black&logoSize=for-the-badge&color=blue">
 </a></p>
 
 
+
+</div>
