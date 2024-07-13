@@ -4,7 +4,7 @@
 
 <h5>
   <ul>
-    <li> Greetings and welcome to my GitHub profile! My name is Tony, and I've acquired my skills as a full-stack web developer through self-directed learning.</li>
+    <li> Greetings and welcome to my GitHub profile! My name is Tony, and I've acquired my skills mainly as a backend developer through self-directed learning.</li>
     <p></p>
     <li> While I'm currently pursuing my degree in computer science, I'm deeply committed to continuously enhancing my expertise in software development.</li>
     <p></p>
