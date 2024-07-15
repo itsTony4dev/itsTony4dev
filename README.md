@@ -37,7 +37,7 @@
 </p>
  <br>
  <p>
-   <b>WEB TECHNOLOGIES:</b>
+  
    <p>
      <i><img alt="Static Badge" src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logoColor=black&color=black">
  </i>
