@@ -11,9 +11,7 @@
     <li> Developer career never end so I thrive on tackling new challenges that stretch my abilities and elevate my expertise.</li>
     <p></p>
      <li> During breaks, I challenge myself by learning Rust, a powerful and memory-safe systems programming language..</li>
-    <p></p>
-    <li>Thank you for taking the time to visit my profile, hope we will meet someday in buisness stuff!</li>
-    <p></p>
+    
   </ul>
 </h5>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
