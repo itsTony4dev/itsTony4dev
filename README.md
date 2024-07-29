@@ -10,7 +10,7 @@
     <p></p>
     <li> Developer career never end so I thrive on tackling new challenges that stretch my abilities and elevate my expertise.</li>
     <p></p>
-     <li> During breaks, I challenge myself by learning Rust, a powerful and memory-safe systems programming language..</li>
+     <li> During breaks, I challenge myself by learning Rust, a powerful and memory-safe systems programming language.</li>
     
   </ul>
 </h5>
