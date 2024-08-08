@@ -29,7 +29,7 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/c%23-black?style=for-the-badge&color=purple">
 
    <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&color=yellow">
-
+ <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=red&labelColor=000000&color=red" alt="Rust" title="Rust Programming Language">
  </p>
 
 </p>
@@ -73,12 +73,7 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/.net_Framework-black?style=for-the-badge&logoColor=black&logoSize=for-the-badge&color=purple">
 
 </p>
- <p> <i>Language I'd like to learn:</i> </p>
-<p>
-  <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=red&labelColor=000000&color=red" alt="Rust" title="Rust Programming Language">
- 
-</p>
- </p>
+
 
 <hr>
 
