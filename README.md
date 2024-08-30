@@ -1,5 +1,5 @@
 # <h1 align="center">Hi 👋, I'm Tony Ayda</h1>
-<h3 align="center">A Backend Developer</h3>
+<h3 align="center">A Software Developer | Backend Specialist</h3>
 
 - Greetings and welcome to my GitHub profile! My name is Tony, and I've acquired my skills mainly as a backend developer through self-directed learning.
 
