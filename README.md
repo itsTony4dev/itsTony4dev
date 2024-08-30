@@ -9,8 +9,7 @@
 
 - During breaks, I challenge myself by learning Rust, a powerful and memory-safe systems programming language.
 
----
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h3 align="center">Skills:</h3>
 
 <h4 align="center">Languages:</h4>
