@@ -70,13 +70,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=itsTony4dev&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</p>
-
----
-
 <p align="center"><img src="https://visitcount.itsvg.in/api?id=itsTony4dev&icon=0&color=0" alt=""></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
