@@ -57,19 +57,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-
----
-
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsTony4dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsTony4dev&theme=dark&hide_border=false" alt="GitHub Streak Stats">
-</p>
-
----
-
-<p align="center"><img src="https://visitcount.itsvg.in/api?id=itsTony4dev&icon=0&color=0" alt=""></p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
