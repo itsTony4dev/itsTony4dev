@@ -7,7 +7,7 @@
 
 - A developer's career never ends, so I thrive on tackling new challenges that stretch my abilities and elevate my expertise.
 
-- During breaks, I challenge myself by learning new tech helping me expand my skills, focusing next on GraphQL and Kubernetes.
+- During breaks, I challenge myself by learning new tech helping me expand my skills.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h3 align="center">Skills:</h3>
