@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=black" alt="PHP">
- <img src="https://img.shields.io/badge/RUST-000000?style=for-the-badge&logo=rust&logoColor=red&labelColor=000000&color=red" alt="Rust" title="Rust Programming Language">
+ <img src="https://img.shields.io/badge/Golang-007AAC?style=for-the-badge&logo=go&logoColor=white" alt="Go" title="Golang">
  
 </p>
 
