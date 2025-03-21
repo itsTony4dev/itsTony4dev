@@ -1,13 +1,11 @@
 # <h1 align="center">Hi 👋, I'm Tony Ayda</h1>
 <h3 align="center">A Software Developer | Backend Specialist</h3>
 
-- Greetings and welcome to my GitHub profile! My name is Tony, and I've acquired my skills mainly as a backend developer through self-directed learning.
+I'm a software dev who's all about building SCALABLE, efficient, and real-time apps. I’ve got my hands deep in backend stuff, CI/CD, testing, and databases. I love solving problems and diving into new tech to level up my skills.
 
-- While I'm currently pursuing my degree in computer science, I'm deeply committed to continuously enhancing my expertise in software development.
+Adaptable and always down to try out new frameworks, tools, and languages depending on what the project needs. Just here to find the best way to make things work.
 
-- A developer's career never ends, so I thrive on tackling new challenges that stretch my abilities and elevate my expertise.
-
-- During breaks, I challenge myself by learning new tech helping me expand my skills.
+Always on the lookout for new challenges to help me grow. Whether it’s backend systems, APIs, or real-time comms, I’m all in for teamwork and innovation!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h3 align="center">Skills:</h3>
