@@ -12,15 +12,13 @@
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
-](https://linkedin.com/in/tony-ayda)
-[
+](https://linkedin.com/in/tony-ayda) [
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)
 
-](https://tonyayda.vercel.app)
-[
+](https://tonyayda.vercel.app) [
 
-![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)
+![Email](https://img.shields.io/badge/tonyayda.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)
 
 ](mailto:tonyayda.dev@gmail.com)
 
